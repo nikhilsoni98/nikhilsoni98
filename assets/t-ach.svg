@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56">
+<style>
+  .n { font: 600 14px 'Fira Code', 'SFMono-Regular', Consolas, monospace; fill: #67e8f9; animation: s .8s ease-out both; }
+  .t { font: 700 28px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #e2e8f0; animation: s .8s .15s ease-out both; }
+  .l { transform-origin: left; animation: g 1.2s .3s ease-out both; }
+  @keyframes s { from { opacity:0; transform: translateX(-18px); } to { opacity:1; transform:none; } }
+  @keyframes g { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+</style>
+<defs><linearGradient id="u" x1="0" x2="1"><stop offset="0" stop-color="#67e8f9"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient></defs>
+<text class="n" x="4" y="22">04.</text>
+<text class="t" x="52" y="30">Achievements &amp; Leadership</text>
+<rect class="l" x="4" y="42" width="892" height="3" rx="1.5" fill="url(#u)"/>
+</svg>
